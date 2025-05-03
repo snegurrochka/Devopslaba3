@@ -1,1 +1,1 @@
-# Devopslaba3
+# DevOps lab 3
